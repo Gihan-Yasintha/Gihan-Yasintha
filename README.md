@@ -19,7 +19,7 @@
 <br/><br/>
 
 <h2>🔝 Github Stats :</h2>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasintha-Serasinghe&layout=compact&theme=" alt=Yasintha-Serasinghe />
+<p></p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasintha-Serasinghe&layout=compact&theme=" alt=Yasintha-Serasinghe /></p>
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasintha-Serasinghe&show_icons=true&locale=en&theme=default" alt="Yasintha-Serasinghe" /></p>
 

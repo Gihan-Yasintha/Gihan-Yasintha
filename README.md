@@ -19,11 +19,13 @@
 <br/><br/>
 
 <h2>🔝 Github Stats :</h2>
-<p></p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasintha-Serasinghe&layout=compact&theme=" alt=Yasintha-Serasinghe /></p>
+# 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasintha-Serasinghe&show_icons=true&locale=en&theme=default" alt="Yasintha-Serasinghe" /></p>
+![](https://github-readme-stats.vercel.app/api?username=Yasintha-Serasinghe&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yasintha-Serasinghe&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasintha-Serasinghe&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yasintha-Serasinghe&theme=default" alt="Yasintha-Serasinghe" /></p>
+
 
 <br/><br/>
 
